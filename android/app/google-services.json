@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433209092300",
+    "project_id": "jakarta-55d57",
+    "storage_bucket": "jakarta-55d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433209092300:android:bcf9753e4f80ac44f6ba69",
+        "android_client_info": {
+          "package_name": "com.jakarta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvmQzPioqGC6gWCa4cZqZMhdusRx8A0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433209092300:android:a67372fb88ad3809f6ba69",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsvmQzPioqGC6gWCa4cZqZMhdusRx8A0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
